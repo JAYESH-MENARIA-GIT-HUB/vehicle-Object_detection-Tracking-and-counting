@@ -44,9 +44,10 @@ Training insturction in Train.ipynb
 First detect the objects by using ssd model and fed into the tracker as i did in 
 Trck.ipynb file  and counted them
 
-
+#Final result - https://drive.google.com/file/d/1-2iiwQ8Vi2hOKUkoH-0t2Y24c73yQJ0i/view?usp=sharing
+https://drive.google.com/file/d/1-CaKsKTo9i2ZXuWgeCJcL8lD0DeAvKBD/view?usp=sharing
 #### Video Example
-![Demo of Object Tracker](data/car.gif)
+![Result of Object Tracker](data/car.gif)
 
 
 

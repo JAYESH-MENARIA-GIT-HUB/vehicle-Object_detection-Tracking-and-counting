@@ -1,7 +1,7 @@
 # Object Tracking using TF object detection, Deep Sort and Tensorflow
 This repository implements SSD model and Deep SORT in order to perfrom real-time object tracking. Tensorflow object detection(SSD mobilenet) is an algorithm that uses deep convolutional neural networks to perform object detection. We can feed these object detections into Deep SORT (Simple Online and Realtime Tracking with a Deep Association Metric) in order for a real-time object tracker to be created.
 
-![Demo of Object Tracker](data/demo.gif)
+![Demo of Object Tracker](data/car.gif)
 
 ## Getting started
 

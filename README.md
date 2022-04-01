@@ -41,6 +41,9 @@ download model from tensorflow model zoo
 Training insturction in Train.ipynb
 
 ## Running the Object Tracker
+### deep_sort is used to track object in videos,
+It generates a track id for object and uses kalman filter which predicts future location of vehicle
+  
 First detect the objects by using ssd model and fed into the tracker as i did in 
 Trck.ipynb file  and counted them
 
